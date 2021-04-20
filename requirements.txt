@@ -1,5 +1,5 @@
 nuscenes-devkit==1.1.1
 PyQt5==5.13.1
-pyyaml==5.2
+pyyaml==5.4
 easydict==1.9
 tqdm
